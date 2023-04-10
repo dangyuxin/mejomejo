@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=cobalt&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=onedark&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mejomejo&theme=dark&layout=compact)
 
