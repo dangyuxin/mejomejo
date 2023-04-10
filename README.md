@@ -1,7 +1,7 @@
 # Hi there, I'm mejo👋
 
 ***🌱 I’m currently learning Linux & APUE***  
-***🤔 I’m looking for help with how to improve my English 🤣🤣🤣***
+**🤔 *I’m looking for help with how to improve my English*🤣🤣🤣**
 
 
 
