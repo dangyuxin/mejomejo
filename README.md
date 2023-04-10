@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=synthwave&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=dracula&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mejomejo&theme=dark&layout=compact)
 
