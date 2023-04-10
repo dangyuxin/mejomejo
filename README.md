@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mejomejo's github stats](https://github-readme-stats.vercel.app/api?username=mejomejo/?theme=THEME_NAME radical)](https://github.com/anuraghazra/github-readme-stats)
+[![mejomejo's github stats](https://github-readme-stats.vercel.app/api?username=mejomejo/api?theme=THEME_NAME radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🌱 I’m currently learning Linux and Go
