@@ -2,6 +2,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=gruvbox&count_private=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&theme=dark&layout=compact)
+
+
 
 🌱 I’m currently learning Linux and Go
 
