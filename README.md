@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=merko&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=gruvbox&count_private=false)
 
 
 🌱 I’m currently learning Linux and Go
