@@ -1,12 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Linux 
+
 ![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=onedark&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mejomejo&theme=dark&layout=compact)
 
-
-
-🌱 I’m currently learning Linux and Go
 
 <!--
 **mejomejo/mejomejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
