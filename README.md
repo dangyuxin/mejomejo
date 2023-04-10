@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Linux 
 
-![](https://github-readme-stats.vercel.app/api?username=mejomejo&show_icons=true&theme=tokyonight&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=mejomejo&langs_count=4&theme=tokyonight&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api?username=mejomejo&hide=stars,prs,issues&include_all_commits=true&show_icons=true&theme=tokyonight&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=mejomejo&langs_count=4&theme=tokyonight&hide_progress=true)
 
 
 
