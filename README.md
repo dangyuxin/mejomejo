@@ -1,4 +1,4 @@
-### Hi there, I'm mejo👋
+# Hi there, I'm mejo👋
 
 🌱 I’m currently learning Linux 
 
