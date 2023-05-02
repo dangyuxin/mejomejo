@@ -1,4 +1,4 @@
-# Hi there, I'm mejo👋
+# Hi there, I'm dangdang👋
 
 ***🌱 I’m currently learning Go & Linux & APUE***  
 **🤔 *I’m looking for help with how to improve my English*🤣🤣🤣**
